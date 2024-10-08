@@ -23,5 +23,10 @@ int main(void)
 
     printf("log(2) value is: %.4f \n", log(2));
 
+    float abs_diff = fabs(finalIntegral - log(2));
+    float rel_diff = fabs(1 - (finalIntegral / log(2)));
+
+    printf("abs_diff = %f\n rel_diff = %f\n", abs_diff, rel_diff);
+
     return 0;
 }
