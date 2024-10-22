@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void update_fibonacci(int *fn1, int *fn2);
 
@@ -12,6 +13,12 @@ int main(void)
     scanf("%d", &n);
 
     printf("%d ", f0);
+
+    if (n < 1)
+    {
+        printf("n must be bigger than 1 \n");
+        exit(1);
+    }
 
     if (n > 0)
     {
