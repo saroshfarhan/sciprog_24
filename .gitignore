@@ -12,3 +12,5 @@ matMul
 main.o
 matMul.o
 matMultC
+e
+pointers
