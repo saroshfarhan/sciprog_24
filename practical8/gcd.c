@@ -32,13 +32,13 @@ int main(void)
     error = scanf("%d %d", &a, &b);
     if (error != 2)
     {
-        printf("Please enter two integers!");
+        printf("Please enter two integers! \n");
         return 1;
     }
 
     if (a <= 0 || b <= 0)
     {
-        printf("Please enter positive integers");
+        printf("Please enter positive integers \n");
         return 1;
     }
 
