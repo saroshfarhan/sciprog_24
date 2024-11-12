@@ -51,3 +51,6 @@ Recursive GCD(25 27) is 1
 Iterative GCD(64 30) is 2
 Recursive GCD(64 30) is 2
 ```
+
+I also included custom header file for GCD and then used it to calculate GCD.
+This can be found in ```gcdHeader.h``` and the header is used in ```gcdWithCustomHeader.c``` file.
