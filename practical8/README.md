@@ -35,3 +35,22 @@ Please enter two positive numbers:
 q
 Please enter two integers!
 ```
+
+## Calculating GCD by using random number
+
+We also generated random number from 1 to 100 and calculated GCD of the generated number
+We used ```srand(time(NULL))``` for seed and then generated random number by ```(rand() % 100) + 1```.
+
+## Output
+
+```shell
+[sp114@sciprog practical8]$ ./gccR
+Iterative GCD(25 27) is 1
+Recursive GCD(25 27) is 1
+[sp114@sciprog practical8]$ ./gccR
+Iterative GCD(64 30) is 2
+Recursive GCD(64 30) is 2
+```
+
+I also included custom header file for GCD and then used it to calculate GCD.
+This can be found in ```gcdHeader.h``` and the header is used in ```gcdWithCustomHeader.c``` file.
