@@ -1,6 +1,6 @@
 .DS_Store
 
-#ingnore executable files
+#ignore executable files
 Conversion
 Sum
 Integral
@@ -17,3 +17,4 @@ pointers
 gcc
 gccR
 gccCu
+magic
