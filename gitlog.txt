@@ -1,0 +1,225 @@
+commit 8211a671dba9e594f0f292e7729de7cf40903329 (HEAD -> main, origin/main)
+Merge: 7a6eefc 2d06d32
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Nov 19 13:41:37 2024 +0000
+
+    Merge pull request #13 from saroshfarhan/practical9
+    
+    Added practical 9 and also updated README.
+
+commit 2d06d32f0f01c965060cb4dd6f6c266f7a9de07e (origin/practical9, practical9)
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Nov 19 13:40:46 2024 +0000
+
+    Added practical 9 and also updated README.
+
+commit 7a6eefc9640d63d6c2da1fb6ba714be6e9b070e5
+Merge: b1e526c 579e94f
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Nov 12 11:30:33 2024 +0000
+
+    Merge pull request #12 from saroshfarhan/practical8
+    
+    Practical8
+
+commit 579e94feccb382bf82e1756afd0b302c2d0ec981 (origin/practical8, practical8)
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Nov 12 11:29:24 2024 +0000
+
+    updated README file.
+
+commit 40dc0fac3314f07997a5cd2621f67cf7f0a8cf8c
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Nov 12 11:27:14 2024 +0000
+
+    updated file with custom header as well and code that uses that header.
+
+commit b1e526c9c45319ab68196b2c38cfcbfab6608750
+Merge: b8b82b9 85d52a0
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Nov 12 10:57:11 2024 +0000
+
+    Merge pull request #11 from saroshfarhan/practical8
+    
+    Practical 8 completed with output.
+
+commit 85d52a0af6014a26274312435e220fa0aeb521ce
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Nov 12 10:56:52 2024 +0000
+
+    minor update with new line for better readability.
+
+commit 475f4ea23b2d051c03077a2cd1ec291df13d8248
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Nov 12 10:53:43 2024 +0000
+
+    Practical 8 completed with output.
+
+commit b8b82b9fb109b041cb26199cc2356d82c3232b64
+Merge: 86596cc 959bf9f
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Nov 5 10:58:00 2024 +0000
+
+    Merge pull request #10 from saroshfarhan/practical7
+    
+    Updated week 7 practical.
+
+commit 959bf9feb62da8189c9c0dbdd8591448ab668ac9 (origin/practical7, practical7)
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Nov 5 10:55:54 2024 +0000
+
+    Updated week 7 practical.
+
+commit 86596ccccb1cbe88db7d8df46b569a78e5b5847b
+Merge: 904f44f 7a18c23
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 29 14:35:35 2024 +0000
+
+    Merge pull request #9 from saroshfarhan/practical6
+    
+    updated practical 6, need to update makefil as well.
+
+commit 7a18c23a9dccb8f007c026f997dba175a88a2a49 (origin/practical6, practical6)
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 29 13:17:34 2024 +0000
+
+    updated practical 6, need to update makefil as well.
+
+commit 904f44f4e971f80812b107d89ecd0c9d24893ed8
+Merge: 48471b3 0e65783
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Wed Oct 23 00:31:42 2024 +0100
+
+    Merge pull request #8 from saroshfarhan/practical5
+    
+    Practical5
+
+commit 0e6578349a07f99bea8b17053dc0a786ed75bfe1 (origin/practical5, practical5)
+Merge: f5afe92 48471b3
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Wed Oct 23 00:29:58 2024 +0100
+
+    Merge pull request #7 from saroshfarhan/main
+    
+    Merge pull request #6 from saroshfarhan/practical5
+
+commit f5afe921668b4b8f61d59b6865c3ee8fd6432115
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 22 11:24:58 2024 +0100
+
+    Updated practical 5 folder after class. WiP
+
+commit 48471b3cefaf440abf5adba29556b959069df85b
+Merge: 1620e26 99f3fe2
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 22 00:40:55 2024 +0100
+
+    Merge pull request #6 from saroshfarhan/practical5
+    
+    Practical5
+
+commit 99f3fe23814a095b4f45e6447cd3cc0c317e4109
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 22 00:39:03 2024 +0100
+
+    WiP, updated c file for inverse tanh function.
+
+commit f45d9abb0ba2b242babd35ff1d9406e45c0cac41
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 22 00:10:54 2024 +0100
+
+    fibonacci completed fpr practical 5
+
+commit 1620e2652d6553524f16b94f32c7d1944a4416ca
+Merge: fd5892d 98fe5b1
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 15 16:06:47 2024 +0100
+
+    Merge pull request #5 from saroshfarhan/practical4
+    
+    Practical4
+
+commit 98fe5b19e8a9e972082992f1c65ebeba2d21282c (origin/practical4, practical4)
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 15 16:04:25 2024 +0100
+
+    added readme for practical4.
+
+commit c805b28502a98dcd979603055c52396cd5048d04
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 15 15:54:08 2024 +0100
+
+    Updated readme and added practical4 .c file
+
+commit fd5892da207a1f1b4415d67aa8150b41ce6c7854
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Thu Oct 10 12:52:02 2024 +0100
+
+    Update README.md
+
+commit e80e1062a94f5eb93faf8eca7887957c2693c1a1
+Merge: 2d2d76e d19d3e3
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 8 10:42:07 2024 +0100
+
+    Merge pull request #4 from saroshfarhan/practical3
+    
+    updated as per class with some abs diff and rel diff.
+
+commit d19d3e395b1f607f76f350df71dd4b8f9e02f6f3 (practical3)
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 8 10:40:24 2024 +0100
+
+    updated as per class with some abs diff and rel diff.
+
+commit 2d2d76ee26fbc33906344b760b164a2911a28876
+Merge: ffa449a f859d43
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 8 00:08:51 2024 +0100
+
+    Merge pull request #3 from saroshfarhan/practical2
+    
+    Completed week 3 practical. Output in README
+
+commit f859d435ac493cc15ebc39e14348592fe8497e92 (practical2)
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 8 00:07:47 2024 +0100
+
+    Completed week 3 practical. Output in README
+
+commit ffa449a7107c4e0aa982eee990f3f918ca08e59f
+Merge: 6d92e15 9c59c8d
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 1 23:53:00 2024 +0100
+
+    Merge pull request #2 from saroshfarhan/practical2
+    
+    added C files for practical with output in README.
+
+commit 9c59c8d29c5ca6d65df69f81772d01fabecf97bd
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 1 23:51:16 2024 +0100
+
+    added C files for practical with output in README.
+
+commit 6d92e157cf8fbdd21561a36fcfd3d5ee03cdb4b2
+Merge: 241fc18 54d70de
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 1 15:17:20 2024 +0100
+
+    Merge pull request #1 from saroshfarhan/practical2
+    
+    Added README to practical2 folder.
+
+commit 54d70de3d88f07582baef5c5427c94eaf3d6697f
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 1 11:53:44 2024 +0100
+
+    Added README to practical2 folder.
+
+commit 241fc18d6047cf193e64655ecd3a4b926fbba51f
+Author: Sarosh Farhan <saroshfarhan6495@gmail.com>
+Date:   Tue Oct 1 11:45:54 2024 +0100
+
+    Added README to the repository.
+(END)
